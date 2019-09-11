@@ -1,2 +1,3 @@
-# rsschool-2019Q3-html-css
-HTML CSS self education at Codecademy.com
+# rsschool-2019Q3-codeacademy
+Shirmurad AKMAMEDAU
+HTML CSS Basics https://www.codecademy.com/profiles/murad.akmamedau
